@@ -14,6 +14,7 @@ public class Keys //Управление
     public KeyCode Boost;
     public KeyCode SlowTime;
     public KeyCode ResetRace;
+    
     public void Initialize(Initializer initializer)
     {
     
