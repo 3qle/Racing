@@ -575,7 +575,8 @@ MonoBehaviour:
   race:
     RacersCount: 1
   pool:
-    CarsList: []
+    CarsList:
+    - {fileID: -8655096795213634083, guid: 351b258b1cec7dc40b7af511b829e2e3, type: 3}
   carsInRace: []
 --- !u!4 &822298748
 Transform:

@@ -10,6 +10,8 @@ public abstract class Vehicle : MonoBehaviour //абстрактный клас�
     public Engine Engine;
     public Hull Hull;
     public Wheels Wheels;
+
+		public Rigidbody rb;
     
     public void Initialize(Initializer initializer)
     { 
