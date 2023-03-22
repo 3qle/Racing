@@ -51,13 +51,13 @@
      <Compile Include="Assets\Script\Managers\Pool.cs" />
      <Compile Include="Assets\Script\Managers\Controller\Keys.cs" />
      <Compile Include="Assets\Script\Managers\Race.cs" />
+     <Compile Include="Assets\Script\Car\AudioFX.cs" />
      <Compile Include="Assets\Script\Managers\Controller\CarCamera.cs" />
      <Compile Include="Assets\Script\UI\UI.cs" />
      <Compile Include="Assets\Script\Managers\Rule.cs" />
      <Compile Include="Assets\Script\Managers\Initializer.cs" />
      <Compile Include="Assets\Script\Car\Car.cs" />
      <Compile Include="Assets\Script\Car\Engine.cs" />
-     <Compile Include="Assets\Script\Car\AudioFX.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Script\Managers\Controller" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -100,6 +100,7 @@
      <Folder Include="Assets\TextMesh Pro\Fonts" />
      <Folder Include="Assets\Resources\Video\Font" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+     <Folder Include="Assets\Resources\Audio\FX\Proto" />
      <Folder Include="Assets\Resources\Video\3D\Cars\Material" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
