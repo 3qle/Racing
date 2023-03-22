@@ -41,22 +41,23 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\Car\Vehicle.cs" />
-     <Compile Include="Assets\Script\Car\Car.cs" />
-     <Compile Include="Assets\Script\Car\Engine.cs" />
+     <Compile Include="Assets\Script\Car\Wheels.cs" />
+     <Compile Include="Assets\Script\UI\UICar.cs" />
+     <Compile Include="Assets\Script\Managers\Spawner.cs" />
      <Compile Include="Assets\Script\Car\Adrenaline.cs" />
      <Compile Include="Assets\Script\Car\Hull.cs" />
      <Compile Include="Assets\Script\Managers\Controller\Controller.cs" />
-     <Compile Include="Assets\Script\Managers\Controller\CarCamera.cs" />
-     <Compile Include="Assets\Script\Managers\Controller\Keys.cs" />
-     <Compile Include="Assets\Script\Managers\Spawner.cs" />
-     <Compile Include="Assets\Script\Managers\Rule.cs" />
-     <Compile Include="Assets\Script\Managers\Race.cs" />
-     <Compile Include="Assets\Script\Managers\Initializer.cs" />
-     <Compile Include="Assets\Script\UI\UI.cs" />
-     <Compile Include="Assets\Script\UI\UICar.cs" />
+     <Compile Include="Assets\Script\Car\Vehicle.cs" />
      <Compile Include="Assets\Script\Managers\Pool.cs" />
-     <Compile Include="Assets\Script\Car\Wheels.cs" />
+     <Compile Include="Assets\Script\Managers\Controller\Keys.cs" />
+     <Compile Include="Assets\Script\Managers\Race.cs" />
+     <Compile Include="Assets\Script\Managers\Controller\CarCamera.cs" />
+     <Compile Include="Assets\Script\UI\UI.cs" />
+     <Compile Include="Assets\Script\Managers\Rule.cs" />
+     <Compile Include="Assets\Script\Managers\Initializer.cs" />
+     <Compile Include="Assets\Script\Car\Car.cs" />
+     <Compile Include="Assets\Script\Car\Engine.cs" />
+     <Compile Include="Assets\Script\Car\AudioFX.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Script\Managers\Controller" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
